@@ -1,0 +1,41 @@
+_repo: Cobwebs-from-an-Empty-Skull_12793
+_version: 0.0.1
+contributor:
+  engineers:
+  - agent_name: Dalziel, Edward
+    birthdate: 1817
+    deathdate: 1905
+    gutenberg_agent_id: '32392'
+    url: http://www.gutenberg.org/2009/agents/32392
+  - agent_name: Dalziel, George
+    birthdate: 1815
+    deathdate: 1902
+    gutenberg_agent_id: '32424'
+    url: http://www.gutenberg.org/2009/agents/32424
+creator:
+  author:
+    agent_name: Bierce, Ambrose
+    alias: Grile, Dod
+    birthdate: 1842
+    deathdate: 1913
+    gutenberg_agent_id: '206'
+    url: http://www.gutenberg.org/2009/agents/206
+    wikipedia: http://en.wikipedia.org/wiki/Ambrose_Bierce
+description: ''
+gutenberg_issued: '2004-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12793'
+  lccn: a 21000134
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fables'
+- !lcsh 'American wit and humor'
+- !lcc 'PS'
+- !lcsh 'Satire'
+- GITenberg
+title: Cobwebs from an Empty Skull
+url: http://www.gutenberg.org/ebooks/12793
